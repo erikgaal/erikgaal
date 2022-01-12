@@ -9,9 +9,10 @@ I believe that open source software is essential in tech. That's why I'm activel
 Here's some projects that I love:
 - [Laravel](https://github.com/laravel/framework)
 - [Laravel Bakery](https://github.com/scrnhq/laravel-bakery) made with ❤️ by Scrn
-- [Laravel Livewire](https://github.com/livewire/livewire)
+- [Livewire](https://github.com/livewire/livewire)
+- [Inertia](https://github.com/inertiajs/inertia)
 - [Homebrew](https://github.com/homebrew/brew)
 
 ### Get in touch
 - Twitter: [@erikgaal](https://twitter.com/erikgaal)
-- Email: e.gaal \<at\> scrn.com
+- Email: me <at> erikgaal.nl
