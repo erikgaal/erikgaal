@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Erik Gaal",
+    "label": "Full Stack Engineer",
+    "image": "https://github.com/erikgaal.png",
+    "email": "me@erikgaal.nl",
+    "summary": "I'm Erik (he/him), a full stack engineer at Scrn a small digital agency based in Amsterdam, Netherlands. Projects I'm currently working on are almost anything web related to Eurovision and we're launching our first event accreditation platform Accredion soon.",
+    "location": {
+      "city": "Rotterdam",
+      "countryCode": "NL"
+    },
+    "profiles": [
+      {
+        "network": "twitter",
+        "username": "erikgaal",
+        "url": "https://twitter.com/erikgaal"
+      },
+      {
+        "network": "github",
+        "username": "erikgaal",
+        "url": "https://github.com/erikgaal"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Scrn",
+      "position": "Lead Developer",
+      "url": "https://scrn.com",
+      "startDate": "2020-08-01",
+      "summary": "After the previous Lead Developer left to work for a different company, I naturally grew into the role of Lead Developer. I became responsible for all IT projects and infrastructure of the company and clients.",
+      "highlights": [
+        "PHP", "Laravel"
+      ]
+    },
+    {
+      "company": "Scrn",
+      "position": "Full Stack Developer",
+      "url": "https://scrn.com",
+      "startDate": "2017-06-01",
+      "endDate": "2020-08-01",
+      "summary": "I joined the company to build a new SaaS platform for accreditation at events called Accredion. We worked with small team of two developers and two designers to build a product from scratch until running it in production for one of the largest events in the world, the Eurovision Song Contest.",
+      "highlights": [
+        "PHP", "Laravel", "Server management", "Database management"
+      ]
+    },
+    {
+      "company": "srprs.me",
+      "position": "Back-End Developer",
+      "url": "https://scrn.com",
+      "startDate": "2015-10-01",
+      "endDate": "2017-06-01",
+      "summary": "Developed new features for the company in-house built CMS through data analytics and UX design which increased the bookers capacity required for the company to grow.",
+      "highlights": [
+        "Python", "Django"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Stichting IAPC",
+      "position": "Chairman of the 27th Board",
+      "url": "https://iapc.utwente.nl/",
+      "startDate": "2015-10-01",
+      "endDate": "2016-09-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Utrecht University",
+      "url": "https://uu.nl/",
+      "area": "Information Sciences",
+      "studyType": "Bachelor",
+      "startDate": "2016-09-01",
+      "endDate": "2019-09-01",
+      "courses": [
+        "Computer Architecture and Networks",
+        "Data Modeling",
+        "Design of Interactive Systems",
+        "Imperative Programming",
+        "Information Exchange",
+        "Logic for Computer Science",
+        "Men, Society and IT",
+        "Organisations and IT",
+        "Product Software",
+        "Usability Engineering & User Experience",
+        "Web Technology"
+      ]
+    },
+    {
+      "institution": "University of Twente",
+      "url": "https://utwente.nl/",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2014-09-01",
+      "endDate": "2016-09-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend",
+      "level": "Senior",
+      "keywords": [
+        "PHP",
+        "Laravel",
+        "PostgreSQL",
+        "Event Sourcing",
+        "Livewire",
+        "Inertia",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "TypeScript",
+        "React",
+        "Tailwind CSS",
+        "Inertia"
+      ]
+    },
+    {
+      "name": "Devops",
+      "keywords": [
+        "AWS",
+        "DigitalOcean",
+        "Forge",
+        "Docker"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Raymond Klompsma",
+      "reference": "Erik is a great guy. He worked almost two years at srprs.me while doing a full time study. He's reliable and really good in his job."
+    },
+    {
+      "name": "Tim Beglinger",
+      "reference": "Erik helped srprs.me to solve difficult issues. Due to his full-stack capabilities, in thinking and in developing, the outcome of his work was of high quality. And although he worked part-time for srprs.me, he made sure he was full part of the team."
+    }
+  ]
+}
