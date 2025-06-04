@@ -11,11 +11,6 @@
     },
     "profiles": [
       {
-        "network": "twitter",
-        "username": "erikgaal",
-        "url": "https://twitter.com/erikgaal"
-      },
-      {
         "network": "github",
         "username": "erikgaal",
         "url": "https://github.com/erikgaal"
