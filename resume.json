@@ -23,7 +23,7 @@
       "position": "Staff Engineer",
       "url": "https://gosuperscript.com",
       "startDate": "2024-07-01",
-      "summary": "bla bla",
+      "summary": "Contributed to a key project that centralized product offerings company-wide.\n\nDriving improvements across the tech organisation to boost developer productivity, enhance delivery quality, and increase software reliability.",
       "highlights": [
         "Domain Driven Design",
         "Hexagonal Architecture",
@@ -38,10 +38,11 @@
       "position": "Senior Fullstack Engineer",
       "url": "https://gosuperscript.com",
       "startDate": "2022-07-01",
-      "summary": "bla bla",
+      "summary": "At Superscript, I led the modernisation of our backoffice system using FilamentPHP, significantly accelerating feature development. I also introduced quality assurance practices, including static code analysis.\n\nIn a follow-up project, I built internal tools for engineers to create insurance products—such as document generation and premium calculators—which drastically reduced the development time for complex offerings.",
       "highlights": [],
       "name": "Superscript",
-      "endDate": "2024-06-30"
+      "endDate": "2024-06-30",
+      "description": ""
     },
     {
       "company": "Scrn",
