@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Erik Gaal",
-    "label": "Full Stack Engineer",
+    "label": "Software Engineer",
     "image": "https://github.com/erikgaal.png",
     "email": "me@erikgaal.nl",
-    "summary": "I'm Erik (he/him), a full stack engineer at Scrn a small digital agency based in Amsterdam, Netherlands. Projects I'm currently working on are almost anything web related to Eurovision and we're launching our first event accreditation platform Accredion soon.",
+    "summary": "Hi there! I’m a software engineer at Superscript, a fintech scale-up on a mission to transform the SME insurance space.\n\nI’m passionate about crafting great experiences—not just for users, but for fellow engineers too. I care deeply about writing clean, well-considered code and enjoy contributing to open-source projects.\n\nBefore this, I was at Scrn, where I worked on the Eurovision Song Contest website and built an event-management platform called Accredion from the ground up.",
     "location": {
       "city": "Rotterdam",
       "countryCode": "NL"
@@ -25,13 +25,40 @@
   "work": [
     {
       "company": "Scrn",
+      "position": "Staff Engineer",
+      "url": "https://gosuperscript.com",
+      "startDate": "2024-07-01",
+      "summary": "bla bla",
+      "highlights": [
+        "Domain Driven Design",
+        "Hexagonal Architecture",
+        "PHP 8+",
+        "Laravel",
+        "Symfony"
+      ],
+      "name": "Superscript"
+    },
+    {
+      "company": "Scrn",
+      "position": "Senior Fullstack Engineer",
+      "url": "https://gosuperscript.com",
+      "startDate": "2022-07-01",
+      "summary": "bla bla",
+      "highlights": [],
+      "name": "Superscript",
+      "endDate": "2024-06-30"
+    },
+    {
+      "company": "Scrn",
       "position": "Lead Developer",
       "url": "https://scrn.com",
       "startDate": "2020-08-01",
       "summary": "After the previous Lead Developer left to work for a different company, I naturally grew into the role of Lead Developer. I became responsible for all IT projects and infrastructure of the company and clients.",
       "highlights": [
-        "PHP", "Laravel"
-      ]
+        "PHP 8+",
+        "Laravel"
+      ],
+      "name": "Scrn"
     },
     {
       "company": "Scrn",
@@ -40,20 +67,21 @@
       "startDate": "2017-06-01",
       "endDate": "2020-08-01",
       "summary": "I joined the company to build a new SaaS platform for accreditation at events called Accredion. We worked with small team of two developers and two designers to build a product from scratch until running it in production for one of the largest events in the world, the Eurovision Song Contest.",
-      "highlights": [
-        "PHP", "Laravel", "Server management", "Database management"
-      ]
+      "highlights": [],
+      "name": "Scrn"
     },
     {
       "company": "srprs.me",
       "position": "Back-End Developer",
-      "url": "https://scrn.com",
+      "url": "https://srprs.me",
       "startDate": "2015-10-01",
       "endDate": "2017-06-01",
       "summary": "Developed new features for the company in-house built CMS through data analytics and UX design which increased the bookers capacity required for the company to grow.",
       "highlights": [
-        "Python", "Django"
-      ]
+        "Python 3+",
+        "Django"
+      ],
+      "name": "srprs.me"
     }
   ],
   "volunteer": [
@@ -93,7 +121,8 @@
       "area": "Computer Engineering",
       "studyType": "Bachelor",
       "startDate": "2014-09-01",
-      "endDate": "2016-09-01"
+      "endDate": "2016-09-01",
+      "score": ""
     }
   ],
   "skills": [
