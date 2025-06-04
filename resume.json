@@ -19,7 +19,7 @@
   },
   "work": [
     {
-      "company": "Scrn",
+      "name": "Superscript",
       "position": "Staff Engineer",
       "url": "https://gosuperscript.com",
       "startDate": "2024-07-01",
@@ -30,22 +30,20 @@
         "PHP 8+",
         "Laravel",
         "Symfony"
-      ],
-      "name": "Superscript"
+      ]
     },
     {
-      "company": "Scrn",
+      "name": "Superscript",
       "position": "Senior Fullstack Engineer",
       "url": "https://gosuperscript.com",
       "startDate": "2022-07-01",
       "summary": "At Superscript, I led the modernisation of our backoffice system using FilamentPHP, significantly accelerating feature development. I also introduced quality assurance practices, including static code analysis.\n\nIn a follow-up project, I built internal tools for engineers to create insurance products—such as document generation and premium calculators—which drastically reduced the development time for complex offerings.",
       "highlights": [],
-      "name": "Superscript",
       "endDate": "2024-06-30",
       "description": ""
     },
     {
-      "company": "Scrn",
+      "name": "Scrn",
       "position": "Lead Developer",
       "url": "https://scrn.com",
       "startDate": "2020-08-01",
@@ -53,21 +51,19 @@
       "highlights": [
         "PHP 8+",
         "Laravel"
-      ],
-      "name": "Scrn"
+      ]
     },
     {
-      "company": "Scrn",
+      "name": "Scrn",
       "position": "Full Stack Developer",
       "url": "https://scrn.com",
       "startDate": "2017-06-01",
       "endDate": "2020-08-01",
       "summary": "I joined the company to build a new SaaS platform for accreditation at events called Accredion. We worked with small team of two developers and two designers to build a product from scratch until running it in production for one of the largest events in the world, the Eurovision Song Contest.",
-      "highlights": [],
-      "name": "Scrn"
+      "highlights": []
     },
     {
-      "company": "srprs.me",
+      "name": "srprs.me",
       "position": "Back-End Developer",
       "url": "https://srprs.me",
       "startDate": "2015-10-01",
@@ -76,8 +72,7 @@
       "highlights": [
         "Python 3+",
         "Django"
-      ],
-      "name": "srprs.me"
+      ]
     }
   ],
   "volunteer": [
